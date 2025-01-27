@@ -1,0 +1,36 @@
+Test Case 1:
+command:
+./01-rods 45
+input:
+10, 15
+20, 40
+5, 10
+Exptected Output:
+3 @ 15 = 60
+2 @ 6 = 12
+Remainder: 2
+Value: 72
+
+Test Case 2:
+command:
+./01-rods 50
+input:
+9, 5
+15, 20
+6, 6
+Expected Output:
+3 @ 15 = 60
+2 @ 6 = 12
+Remainder: 2
+Value: 72
+
+Test Case 3:
+command:
+./01-rods 7
+input:
+10, 20
+15, 30
+25, 50
+Expected Output:
+Remainder: 7
+Value: 0
